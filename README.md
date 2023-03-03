@@ -3,6 +3,7 @@
 #Làm nhiệm vụ nhận 200 điểm Nibiru
 
 1/ Tải về bộ cài đặt pricefeeder:
+
     apt install curl -y
     curl -s https://get.nibiru.fi/pricefeeder! | bash
     
